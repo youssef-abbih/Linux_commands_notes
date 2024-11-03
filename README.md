@@ -1,7 +1,20 @@
+# Linux Command Guides Repository
 
-# Linux Command Guides
+This repository provides detailed Markdown guides for a wide array of essential Linux commands. Each guide covers the command's syntax, options, usage examples, and practical applications, making it a valuable resource for both new and experienced Linux users. 
 
-This repository contains comprehensive guides for various Linux commands. Each guide provides details on syntax, usage, options, and practical examples.
+## Repository Highlights
+
+- **Comprehensive Documentation**: Each guide includes explanations of key options and configurations for real-world tasks.
+- **Clear Use Cases**: Examples for each command demonstrate common administrative, scripting, and troubleshooting scenarios.
+- **User-Friendly Format**: Easy-to-follow Markdown files for quick reference or in-depth study.
+
+## Ideal For
+
+- **System Administrators** looking to enhance their command-line skills or need a handy reference.
+- **Developers and DevOps Engineers** working in Linux environments and seeking best practices.
+- **Linux Enthusiasts** aiming to deepen their understanding of common and advanced Linux commands.
+
+Jump into each guide to gain a deeper understanding of individual commands and their powerful options for managing files, processes, networking, users, and more.
 
 ## Table of Contents
 
@@ -26,6 +39,7 @@ This repository contains comprehensive guides for various Linux commands. Each g
 - [journalctl](./comprehensive_journalctl_guide.md)
 - [kill](./comprehensive_kill_guide.md)
 - [ln](./comprehensive_ln_guide.md)
+- [lsof](./comprehensive_lsof_guide.md)
 - [neofetch](./comprehensive_neofetch_guide.md)
 - [netstat](./comprehensive_netstat_guide.md)
 - [passwd](./comprehensive_passwd_guide.md)
